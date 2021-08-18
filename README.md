@@ -17,11 +17,11 @@ Make sure you have node.js installed.
 1. Fork this repository.
 2. clone it.
  ```
- git clone https://github.com/YOUR_GITHUB_UserName/Todos-List
+ git clone https://github.com/YOUR_GITHUB_UserName/Meme_Generator
  ```
 3. 
  ```
- cd Todos-List
+ cd Meme_Generator
  ```
 4. Install node modules
  ```
@@ -33,4 +33,4 @@ Make sure you have node.js installed.
  ```
    
 
-## Deployed [here](https://todos-list-mukul.netlify.app/)
+
