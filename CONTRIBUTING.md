@@ -29,7 +29,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/dailymint.git
+git clone https://github.com/this-is-you/Meme_Generator.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -39,7 +39,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd dailymint
+cd Meme_Generator
 ```
 
 Now create a branch using the `git checkout` command:
@@ -96,5 +96,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats! You just completed the standard _fork -> clone -> branch -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
